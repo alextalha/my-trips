@@ -12,3 +12,8 @@ https://react-leaflet.js.org/
 npm install leaflet react-leaflet
 
 npm install -D @types/leaflet
+
+
+instalando os icones do projeto
+
+npm install @styled-icons/evaicons-outline
