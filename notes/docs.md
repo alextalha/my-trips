@@ -17,3 +17,23 @@ npm install -D @types/leaflet
 instalando os icones do projeto
 
 npm install @styled-icons/evaicons-outline
+
+
+https://app.graphcms.com/
+query gerada pelo graphCMS
+
+
+query getPages{
+  pages {
+    heading
+    slug,
+    body{
+      html
+    }
+  }
+}
+
+
+integrando o graphCMS
+
+npm install graphql-request graphql
